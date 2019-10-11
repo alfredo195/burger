@@ -83,8 +83,8 @@ function objToSql(ob) {
         });
       },
   }
-selectAll()
+/* selectAll()
 insertOne()
-updateOne()
+updateOne() */
 
 module.exports = orm;
